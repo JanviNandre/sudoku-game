@@ -1,5 +1,4 @@
-#Sudoku game using Javascript
-
+## Sudoku game using Javascript
 ## Resource
 
     Google font: https://fonts.google.com/
